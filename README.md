@@ -1,0 +1,1 @@
+# ttf-genjyuu-gothic
